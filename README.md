@@ -13,7 +13,7 @@
 2. 点击[这里安装脚本](https://github.com/你的用户名/tampermonkey-scripts/raw/main/qishui-music-lyrics/qishui-lyrics-downloader.user.js)
 
 ## 使用截图
-
+![示例图片]![Uploading image.png…]()
 
 ## 更新日志
 - v1.0 - 暂未优化作曲/作词提取逻辑
